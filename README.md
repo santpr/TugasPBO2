@@ -9,4 +9,5 @@ GET dapat digunakan secara umum sedangkan POST, PUT, dan DELETE yang merupakan m
 Asumsi API merepresentasikan database dari sebuah perpustakaan kecil. Data yang didapat dalam source code diambil dari JSON response web katalog digital perpustakaan ITB dan dipergunakan hanya sebagai test data untuk prototipe API ini.
 
 app.py berisi implementasi API menggunakan framework flask
+
 api.py berisi implementasi API tanpa menggunakan framework
